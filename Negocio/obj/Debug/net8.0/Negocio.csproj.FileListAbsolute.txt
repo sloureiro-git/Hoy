@@ -1,0 +1,17 @@
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\Santiago\source\repos\Hoy\Negocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\Santiago\source\repos\Hoy\Negocio\obj\Debug\net8.0\ref\Negocio.dll
